@@ -30,3 +30,8 @@ The notebook can also write a few output artifacts (filenames are created dynami
 
 ### Data format expected is CSV.
 
+
+### Acknowledgement 
+The core feature generation pipeline and the majority of the model development were implemented by Sayedali A. Mohseni.
+Figure generation, selected model validation experiments, and supporting analyses were conducted by Muhammad Hamza B. Khan.
+
